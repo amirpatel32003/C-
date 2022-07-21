@@ -1,0 +1,8 @@
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\obj\Debug\Theatre.csproj.AssemblyReference.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\obj\Debug\Theatre.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\obj\Debug\Theatre.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\bin\Debug\Theatre.exe.config
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\bin\Debug\Theatre.exe
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\bin\Debug\Theatre.pdb
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\obj\Debug\Theatre.exe
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Theatre\obj\Debug\Theatre.pdb

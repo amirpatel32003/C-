@@ -1,0 +1,8 @@
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\obj\Debug\Twitter.csproj.AssemblyReference.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\obj\Debug\Twitter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\obj\Debug\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\bin\Debug\Twitter.exe.config
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\bin\Debug\Twitter.exe
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\bin\Debug\Twitter.pdb
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\obj\Debug\Twitter.exe
+C:\Users\Amir\Dropbox\PC\Desktop\semester 2\C#\Twitter\obj\Debug\Twitter.pdb
